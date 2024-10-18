@@ -4,7 +4,7 @@
 
 ## Alumno
 
-**Nombre del alumno**: [Tu Nombre Aquí]
+**Nombre del alumno**: Oliveto Goñi Agustin
 
 ## 📄 Descripción del Proyecto
 
